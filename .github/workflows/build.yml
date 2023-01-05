@@ -1,6 +1,6 @@
 name  : GitHub Action No. 2
 
-in:
+on:
   push:
     branches: ["main"]
 
